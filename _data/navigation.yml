@@ -1,0 +1,7 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Work in progress"
+    url: /research/
+  - title: "CV"
+    url: "https://github.com/lghackett/CV/blob/main/cv_english.pdf"
