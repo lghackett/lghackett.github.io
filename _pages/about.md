@@ -3,7 +3,7 @@ permalink: /about/
 title: "About me"
 ---
 
-Welcome! I am a PhD student in the Department of Agricultural and Resource Economics at UC Berkeley. My research sits at the intersection of environmental economics and development, and asks how we can manage resources and pollutants for sustainable development for all. I especially enjoy combining empirical work with tools from trade to answer questions that have a spatial dimention. 
+Welcome! I am a PhD student in the Department of Agricultural and Resource Economics at UC Berkeley. My research sits at the intersection of environmental economics and development, and asks how we can manage resources and pollutants for sustainable development for all. I especially enjoy combining empirical work with tools from trade to answer questions that have a spatial dimension. 
 
 Here you can find some fast information about me; for my full CV see the link above.
 
