@@ -1,8 +1,8 @@
 ---
 layout: splash 
-title: 
+title: Lucy Hackett
 header:
- image: /assets/images/nopales.jpg
+ image: /assets/images/nopales_skinny.jpg
 ---
 
 ![image](/assets/images/side-portrait.jpeg){: style="float:left; padding-right:50px; padding-bottom:75px" width="350px"} 
