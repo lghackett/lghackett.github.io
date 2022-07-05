@@ -12,6 +12,7 @@ title: "Teaching"
 
 ### CIDE (instructor of record)
 - Advanced Macroeconomics (Masters level)
+- Macroeconomics bootcamp for Masters students
 - Macroeconomics (Undergraduate level)
 
 ## Awards
