@@ -9,6 +9,7 @@ title: "Teaching"
 - ECON C151: Development Economics
 - ARE 212: Advanced Econometrics (graduate)
 - Workshop for First-time GSIs
+- Economics bootcamp for Masters in Development Practice
 
 ### CIDE (instructor of record)
 - Advanced Macroeconomics (Masters level)
