@@ -2,7 +2,7 @@
 layout: splash 
 title: Lucy Hackett
 header:
- image: /assets/images/popocat.jpg
+ image: /assets/images/popocat_trim.jpg
 ---
 
 ![image](/assets/images/portrait_220705.jpeg){: style="float:left; padding-right:50px; padding-bottom:75px" width="350px"} 
