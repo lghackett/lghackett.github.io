@@ -5,26 +5,30 @@ title: "Teaching"
 
 ## Courses taught
 
-### UC Berkeley (Graduate Student Instructor)
-- ECON C151: Development Economics
-- ARE 212: Advanced Econometrics (graduate)
-- Workshop for First-time GSIs
-- Economics bootcamp for Masters in Development Practice
+### Instructor of record
+**UC Berkeley**
+- Economics bootcamp for Masters in Development Practice (2022, 2023)
 
-### CIDE (instructor of record)
-- Advanced Macroeconomics (Masters level)
-- Macroeconomics bootcamp for Masters students
-- Macroeconomics (Undergraduate level)
+**CIDE, Mexico City**
+- Advanced Macroeconomics, Master's level (2020)
+- Macroeconomics bootcamp for Masters students (2017, 2018, 2019)
+- Advanced Macroeconomics, Undergraduate level (2019)
+
+### Teacing assistant
+**UC Berkeley**
+- ECON C151: Development Economics (2021)
+- ARE 212: PhD Econometrics (2022, 2023)
+- Workshop for First-time GSIs (2021, 2022, 2023)
 
 ## Awards
 - Outstanding Graduate Student Instructor, UC Berkeley 2021
 
 ## Selected student comments
 
-UC Berkeley
+**UC Berkeley**
 - "Lucy explains everything very clearly and well; if there was anything I was confused about during lecture, going to Lucy's section really helped."
 
-CIDE
+**CIDE**
 
 Answering: What did you most enjoy about this professor's teaching? (comments translated from Spanish)
 - "Her willingess to repeatedly answer questions without making the student feel dumb."
