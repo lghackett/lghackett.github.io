@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
+classes: wide
 header_image: "../assets/images/side-portrait.jpeg"
 ---
 
@@ -9,5 +10,6 @@ header_image: "../assets/images/side-portrait.jpeg"
 
 ### Publications
 **Subnational sustainable development: The role of vertical intergovernmental transfers in reaching multidimensional goals.**
+
 Guerrero, O. A., Castañeda, G., Trujillo, G., Hackett, L.; Chávez-Juárez, F. (2021). Subnational sustainable development: The role of vertical intergovernmental transfers in reaching multidimensional goals. Socio-Economic Planning Sciences, 101155. [https://doi.org/10.1016/j.seps.2021.101155](https://doi.org/10.1016/j.seps.2021.101155)
 
