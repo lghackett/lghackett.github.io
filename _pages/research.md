@@ -23,9 +23,9 @@ header_image: "../assets/images/side-portrait.jpeg"
 </div></details>
 
 <details style="margin-bottom:20px;">
-	<summary><strong>Differential subsidence, damages and fragility: Evidence from a systematic analysis in Mexico City</strong> with Enrique Fernández-Torres
+	<summary><strong>Differential subsidence, damages, and fragility: Evidence from a systematic analysis of structural vulnerability in Mexico City</strong> with Enrique Fernández-Torres
 	</summary>
 <div align="left" style="padding-left: 20px;line-height:15px">
-<p><small> Understanding the structural vulnerability of buildings and public infrastructure to differential subsidence is crucial to evaluating the risks and costs that subsidence poses in urban areas. We combine novel estimates of plot-specific differential subsidence in Mexico City with a representative resident survey of structural issues in private residents and public infrastructure to estimate structural fragility curves and damage thresholds. We then extrapolate these findings from micro-data to a city-wide analysis, calculating damages and vulnerability at a city block level.</small></p></div></details>
+<p><small> Understanding the structural vulnerability of buildings and public infrastructure to differential subsidence is crucial for evaluating the risks and costs that subsidence poses in urban areas. We combine novel estimates of plot-specific differential subsidence in Mexico City with a representative survey of structural issues in both private residences and public infrastructure to estimate structural fragility curves and damage thresholds. We then extrapolate these findings from micro-data to a city-wide analysis, calculating damages and vulnerability at a city block level.</small></p></div></details>
 
 
