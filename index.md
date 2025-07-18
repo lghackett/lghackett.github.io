@@ -10,5 +10,7 @@ Welcome! I am a PhD candidate in the Department of Agricultural and Resource Eco
 
 Here you can find some fast information about me; for my full CV see the link above.
 
+_I am on the 2025-2026 job market._
+
 
 
