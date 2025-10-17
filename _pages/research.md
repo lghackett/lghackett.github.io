@@ -7,8 +7,7 @@ header_image: "../assets/images/side-portrait.jpeg"
 
 ### Work in progress
 
-<!-- <par><a href="../assets/pdfs/subsidence.pdf"><strong>Land Subsidence: Environmental risk in housing markets in Mexico City</strong></a> with Carolina Rodríguez Zamora </par> -->
-<par><strong>Land Subsidence: Environmental risk in housing markets in Mexico City</strong> with Carolina Rodríguez Zamora </par>
+<par><a href="../assets/pdfs/subsidence.pdf"><strong>Land Subsidence: Environmental risk in housing markets in Mexico City</strong></a> with Carolina Rodríguez Zamora </par>
 <div><small><strong>Presented at:</strong> UEA North American Meeting, LSE Environment week, AERE summer meeting, LACEA Urban workshop</small></div>
 <details style="margin-bottom:20px;padding-left: 40px;">
 	<summary>Abstract</summary>
