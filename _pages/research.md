@@ -20,9 +20,8 @@ environmental hazards in the housing market exacerbate these costs by putting mo
 </small> </p></div></details>
 
 <par><strong>Estimating the Gains from Water Trade: A Systematic Evaluation of Modeling Considerations</strong> with Nell Green Nylen, Ellen Bruno, Andrew Ayers, Michael Kiparsky, Josué Medellín-Azuara, and Sarah Null</par>
-<par><div><em>Revisions requested at the Review of Environmental Economics and Policy,</em></par>  
-<par>Draft available upon request.</div></par>
-<details style="margin-top:-20px;margin-bottom:20px;padding-left: 40px;">
+<div><small><em>Revisions requested at the Review of Environmental Economics and Policy</em>. Draft available upon request.</small></div>
+<details style="margin-bottom:20px;padding-left: 40px;">
 	<summary>Abstract</summary>
 <div align="left" style="padding-left: 20px;line-height:15px"><p><small> The gains from water trading can vary significantly depending on local conditions as well as the specifics of market design and implementation. However, models of water trading necessarily rely on assumptions that simplify the social, institutional, and environmental landscape within which a water market operates. We systematically evaluate peer-reviewed papers that estimate the gains from water trading to assess how models of water markets take this local context into account. Our results demonstrate that whether and how models incorporate key considerations varies widely, with implications for the accuracy of results. We find that estimates of the economic impacts of water trading in the published literature are more likely to consider distributional effects and incorporate features of the legal and regulatory environment than to account for third-party impacts, transaction costs, the consequences of trading for the economy at large, or the administrative costs associated with setting up and operating a market. Understanding what features a model takes into account is important for interpreting its policy implications. Researchers modeling the gains from trade could better support local decision makers by explicitly articulating their models’ capabilities and limitations.</small> </p>
 </div></details>
