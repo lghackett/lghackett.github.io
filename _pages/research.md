@@ -24,7 +24,7 @@ header_image: "../assets/images/side-portrait.jpeg"
 
 <strong>Sprawl and the costs and benefits of promoting compact cities: Evidence from Mexico</strong> with Rodolfo Oviedo-Moguel
 
-<strong>Rural road upgrading and transportation in Rwanda</strong> with Marco Gonzalez-Navarro, Florence Kondylis, John Loeser, and Maria Ruth Jones
+<strong>Rural road upgrading and transportation in Rwanda</strong> with Marco Gonzalez-Navarro, Florence Kondylis, John Loeser, Maria Jones, and Eric Jospe
 
 <strong>Protect the forest, protect cities? Land use change externalities and flooding in Brazil</strong> with Alice Schmitz
 
