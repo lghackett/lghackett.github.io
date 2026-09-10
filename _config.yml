@@ -59,20 +59,20 @@ plugins:
 author:
   name   : "Lucy Hackett"
   avatar : "/assets/images/portrait_220705.jpeg"
-  bio    : "PhD candidate in Agricultural and Resource Economics at UC Berkeley."
+  bio    : "Research Economist, Banco de México"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lghackett"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:lucy_hackett@berkeley.edu"
+      url: "mailto:lucy.hackettg@banxico.org.mx"
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/lghackett"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lucy.hackettg@banxico.org.mx"
 
 defaults:
   # _pages

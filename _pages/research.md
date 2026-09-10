@@ -7,14 +7,14 @@ header_image: "../assets/images/side-portrait.jpeg"
 
 ## Working papers
 <par><a href="../assets/pdfs/subsidence.pdf"><strong>Land subsidence: Environmental risk in housing markets in Mexico City</strong></a> with Carolina Rodríguez Zamora </par>
-<div><small><strong>Presented at:</strong> NEUDC, Occasional workshop, UEA North American Meeting, LSE Environment week, AERE summer meeting, LACEA Urban workshop</small></div>
+<div><small><strong>Presented at:</strong> NBER Summer Institute, Urban Economics; NEUDC; Occasional workshop; UEA North American Meeting; LSE Environment week; AERE summer meeting; LACEA Urban workshop</small></div>
 <details style="margin-bottom:20px;padding-left: 40px;">
 	<summary>Abstract</summary>
 <div align="left" style="padding-left: 20px;line-height:15px"><p><small> We study the costs of and the housing market response to subsidence- the sinking of land areas due to groundwater over-extraction- in Mexico City. We propose an equilibrium model of the housing market that features housing re-development in the face of an evolving environmental hazard that has both realized and expected future impacts to home quality. Our model highlights that while realizations of subsidence attract development by lowering the opportunity cost of re-building units, information frictions affecting the capitalization of future risk lead to an over-supply of housing in risky areas. Guided by model-derived estimating equations, we exploit quasi-random variation in sinking intensity to estimate the impact of both realized and future subsidence on home values and redevelopment. We find that realized subsidence imposes substantial costs, lowering prices by 1.5% on average. However, prices are unresponsive to measures of expected future sinking, and novel survey evidence suggests that information frictions affect the ability of homebuyers to capitalize predictable future risk. Consistent with model predictions, units that have experienced more sinking are more likely to be redeveloped, as these have lower opportunity cost of being re-built. Evaluating welfare using our parameter estimates implies that subsidence costs Mexico City a total of $33 billion USD, about $18 billion of which are due to information frictions that inefficiently increase the housing stock in the riskiest neighborhoods.
 </small> </p></div></details>
 
 <par><a href="../assets/pdfs/WaterMarkets_LitReview.pdf"><strong>Estimating the Gains from Water Trade: A Systematic Evaluation of Modeling Considerations</strong></a> with Nell Green Nylen, Ellen Bruno, Andrew Ayers, Michael Kiparsky, Josué Medellín-Azuara, and Sarah Null</par>
-<div><small><em>Revisions requested at the Review of Environmental Economics and Policy</em></small></div>
+<div><small><em>Forthcoming in the Review of Environmental Economics and Policy</em></small></div>
 <details style="margin-bottom:20px;padding-left: 40px;">
 	<summary>Abstract</summary>
 <div align="left" style="padding-left: 20px;line-height:15px"><p><small> The gains from water trade vary depending on local conditions and the specifics of market design. Models of water trading necessarily rely on assumptions that simplify the social, institutional, and environmental landscape within which a water market operates. A clear understanding of these assumptions is important for understanding the literature as a whole and its practical and policy relevance. We systematically evaluate peer-reviewed papers that estimate the gains from water trading to assess how models of water markets take local context into account. Our results demonstrate that whether and how models incorporate key considerations varies widely. We find that estimates of the economic impacts of water trading in the published literature are more likely to consider distributional effects and incorporate features of the legal and regulatory environment than to account for third-party impacts, transaction costs, the consequences of trading for the economy at large, or the administrative costs associated with setting up and operating a market. Researchers modeling the gains from trade could better support local decision makers by more explicitly articulating their models’ capabilities and limitations.</small> </p>
@@ -25,9 +25,6 @@ header_image: "../assets/images/side-portrait.jpeg"
 <strong>Sprawl and the costs and benefits of promoting compact cities: Evidence from Mexico</strong> with Rodolfo Oviedo-Moguel
 
 <strong>Rural road upgrading and transportation in Rwanda</strong> with Marco Gonzalez-Navarro, Florence Kondylis, John Loeser, Maria Jones, and Eric Jospe
-
-<strong>Protect the forest, protect cities? Land use change externalities and flooding in Brazil</strong> with Alice Schmitz
-
 
 <strong>Differential subsidence, damages, and fragility: Evidence from a systematic analysis of structural vulnerability in Mexico City</strong> with Enrique Fernández-Torres
 
