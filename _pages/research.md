@@ -12,12 +12,6 @@ header_image: "../assets/images/side-portrait.jpeg"
 	<summary>Abstract</summary>
 <div align="left" style="padding-left: 20px;line-height:15px"><p><small> We study the costs of and the housing market response to subsidence- the sinking of land areas due to groundwater over-extraction- in Mexico City.  We propose an equilibrium model of the housing market that features housing re-development in the face of a dynamic environmental hazard that impacts home quality.  Our model highlights that frictions affecting the capitalization of future risk exacerbate the costs of hazards by causing an over-supply of housing in high-risk areas. Guided by model-derived estimating equations, we exploit quasi-random variation in sinking intensity to estimate the impact of both realized and future subsidence on home values and redevelopment.  Realized subsidence imposes substantial costs, lowering home values by 1.15% on average. However, prices are unresponsive to measures of expected future sinking, and survey evidence suggests that information frictions affect the ability of homebuyers to capitalize predictable future risk. Units that have experienced more sinking are more likely to be redeveloped, as sinking acts as accelerated depreciation. Evaluating welfare implies that current rates of subsidence cost Mexico City a total of $7.18 billion USD, $5.06 billion of which are due to pricing frictions that inefficiently increase the housing stock in the riskiest neighborhoods. </small> </p></div></details>
 
-<par><a href="../assets/pdfs/WaterMarkets_LitReview.pdf"><strong>Estimating the Gains from Water Trade: A Systematic Evaluation of Modeling Considerations</strong></a> with Nell Green Nylen, Ellen Bruno, Andrew Ayers, Michael Kiparsky, Josué Medellín-Azuara, and Sarah Null</par>
-<div><small><em>Forthcoming in the Review of Environmental Economics and Policy</em></small></div>
-<details style="margin-bottom:20px;padding-left: 40px;">
-	<summary>Abstract</summary>
-<div align="left" style="padding-left: 20px;line-height:15px"><p><small> The gains from water trade vary depending on local conditions and the specifics of market design. Models of water trading necessarily rely on assumptions that simplify the social, institutional, and environmental landscape within which a water market operates. A clear understanding of these assumptions is important for understanding the literature as a whole and its practical and policy relevance. We systematically evaluate peer-reviewed papers that estimate the gains from water trading to assess how models of water markets take local context into account. Our results demonstrate that whether and how models incorporate key considerations varies widely. We find that estimates of the economic impacts of water trading in the published literature are more likely to consider distributional effects and incorporate features of the legal and regulatory environment than to account for third-party impacts, transaction costs, the consequences of trading for the economy at large, or the administrative costs associated with setting up and operating a market. Researchers modeling the gains from trade could better support local decision makers by more explicitly articulating their models’ capabilities and limitations.</small> </p>
-</div></details>
 
 ## Selected work in progress
 
@@ -26,5 +20,21 @@ header_image: "../assets/images/side-portrait.jpeg"
 <strong>Rural road upgrading and transportation in Rwanda</strong> with Marco Gonzalez-Navarro, Florence Kondylis, John Loeser, Maria Jones, and Eric Jospe
 
 <strong>Differential subsidence, damages, and fragility: Evidence from a systematic analysis of structural vulnerability in Mexico City</strong> with Enrique Fernández-Torres
+
+## Published and forthcoming 
+
+<par><a href="../assets/pdfs/CurrieHackettMarquez.pdf"><strong>Facilitated enrollment in public health insurance: Effects on prenatal care and birth outcomes</strong></a> with Janet Currie and Fernanda Marquez-Padilla</par>
+<div><small><em>Forthcoming in the Journal of Labor Economics</em></small></div>
+<details style="margin-bottom:20px;padding-left: 40px;">
+	<summary>Abstract</summary>
+<div align="left" style="padding-left: 20px;line-height:15px"><p><small>Many countries are expanding public health insurance for the uncovered, but administrative barriers can reduce enrollments. However, lowering barriers may insure people with marginal health benefits and crowd out services to incumbents. We use novel longitudinal administrative childbirth data to examine the impact of Medical Insurance Century XXI (SMS), a children's program that auto-enrolled family members in Mexico's Seguro Popular (SP) health insurance. SMS increased SP coverage among pregnant women, especially those who previously delivered in private hospitals. This group increased the utilization of prenatal care, without significant changes in birth outcomes, and without negative spillover effects on incumbent women. </small> </p>
+</div></details>
+
+<par><a href="../assets/pdfs/WaterMarkets_LitReview.pdf"><strong>Estimating the Gains from Water Trade: A Systematic Evaluation of Modeling Considerations</strong></a> with Nell Green Nylen, Ellen Bruno, Andrew Ayers, Michael Kiparsky, Josué Medellín-Azuara, and Sarah Null</par>
+<div><small><em>Forthcoming in the Review of Environmental Economics and Policy</em></small></div>
+<details style="margin-bottom:20px;padding-left: 40px;">
+	<summary>Abstract</summary>
+<div align="left" style="padding-left: 20px;line-height:15px"><p><small> The gains from water trade vary depending on local conditions and the specifics of market design. Models of water trading necessarily rely on assumptions that simplify the social, institutional, and environmental landscape within which a water market operates. A clear understanding of these assumptions is important for understanding the literature as a whole and its practical and policy relevance. We systematically evaluate peer-reviewed papers that estimate the gains from water trading to assess how models of water markets take local context into account. Our results demonstrate that whether and how models incorporate key considerations varies widely. We find that estimates of the economic impacts of water trading in the published literature are more likely to consider distributional effects and incorporate features of the legal and regulatory environment than to account for third-party impacts, transaction costs, the consequences of trading for the economy at large, or the administrative costs associated with setting up and operating a market. Researchers modeling the gains from trade could better support local decision makers by more explicitly articulating their models’ capabilities and limitations.</small> </p>
+</div></details>
 
 
