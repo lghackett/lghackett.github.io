@@ -15,6 +15,8 @@ header_image: "../assets/images/side-portrait.jpeg"
 
 ## Selected work in progress
 
+<strong>Rationing through Intermittency: Evidence from Water Use in Jordan</strong> with Bailey Palmer and Abdulrazzak Tamim 
+
 <strong>Sprawl and the costs and benefits of promoting compact cities: Evidence from Mexico</strong> with Rodolfo Oviedo-Moguel
 
 <strong>Rural road upgrading and transportation in Rwanda</strong> with Marco Gonzalez-Navarro, Florence Kondylis, John Loeser, Maria Jones, and Eric Jospe
